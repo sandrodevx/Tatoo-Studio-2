@@ -54,4 +54,4 @@ Puedes personalizar fácilmente:
 
 ## Contacto
 
-Para más información o consultas sobre el proyecto, contacta a [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+Para más información o consultas sobre el proyecto, contacta a [tu-email@ejemplo.com](sandrodevx@gmail.com)
